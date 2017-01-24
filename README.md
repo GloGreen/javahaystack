@@ -1,6 +1,6 @@
 # Summary
 
-Method `findNeedles` compares the elements of `haystack` string and needles array, gathers in `countArray` array total count of how many elements the variables have in common, then prints each common element and the total count.
+Method `findNeedles` compares the elements of `haystack` string and `needles` array, gathers in `countArray` array the total count of how many elements the variables have in common, then prints each common element and the total count.
 
 # Description
 
